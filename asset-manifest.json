@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Text-Tools-App/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Text-Tools-App/static/js/main.86ae9e29.chunk.js",
+    "main.js.map": "/Text-Tools-App/static/js/main.86ae9e29.chunk.js.map",
+    "runtime-main.js": "/Text-Tools-App/static/js/runtime-main.d9bd2d7e.js",
+    "runtime-main.js.map": "/Text-Tools-App/static/js/runtime-main.d9bd2d7e.js.map",
+    "static/js/2.82eeb3fb.chunk.js": "/Text-Tools-App/static/js/2.82eeb3fb.chunk.js",
+    "static/js/2.82eeb3fb.chunk.js.map": "/Text-Tools-App/static/js/2.82eeb3fb.chunk.js.map",
+    "static/js/3.152cc5e7.chunk.js": "/Text-Tools-App/static/js/3.152cc5e7.chunk.js",
+    "static/js/3.152cc5e7.chunk.js.map": "/Text-Tools-App/static/js/3.152cc5e7.chunk.js.map",
+    "index.html": "/Text-Tools-App/index.html",
+    "precache-manifest.519de186f5d57579957d3e0671358a00.js": "/Text-Tools-App/precache-manifest.519de186f5d57579957d3e0671358a00.js",
+    "service-worker.js": "/Text-Tools-App/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Text-Tools-App/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.82eeb3fb.chunk.js.LICENSE.txt": "/Text-Tools-App/static/js/2.82eeb3fb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Text-Tools-App/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9bd2d7e.js",
+    "static/js/2.82eeb3fb.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.86ae9e29.chunk.js"
+  ]
+}
